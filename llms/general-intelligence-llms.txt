@@ -1,0 +1,45 @@
+# Cofounder Docs
+
+> Standalone docs site for the Superoptimizers-hosted Cofounder documentation.
+
+## Documentation
+
+- [Introduction](https://docs.cofounder.co/): Get started with Cofounder and run your business with agents.
+- [Custom Agents](https://docs.cofounder.co/agents/custom-agents): Create your own agents and route work to the right custom agent.
+- [Design Agent](https://docs.cofounder.co/agents/design-agent): Use the Design Agent for brand systems, visual assets, decks, email templates, and UI kits.
+- [Engineer Agent](https://docs.cofounder.co/agents/engineer-agent): Use the Engineer for product code, app changes, debugging, PRs, and local verification.
+- [Marketing Agent](https://docs.cofounder.co/agents/marketing-agent): Use the Marketing Agent for campaigns, positioning, creative assets, launches, and marketing-site planning.
+- [Agents Overview](https://docs.cofounder.co/agents/overview): Understand what an agent is in Cofounder, what it consists of, which agents are created by default, and how to add new ones.
+- [Sales Agent](https://docs.cofounder.co/agents/sales-agent): Use the Sales Agent for ICP, outbound, customer development, pipeline, and GTM execution.
+- [Skills](https://docs.cofounder.co/agents/skills): Create reusable guidance packages and attach them to your agents.
+- [What Happens After Onboarding](https://docs.cofounder.co/get-started/after-onboarding): Understand what Cofounder sets up during onboarding and how your workspace is organized once you are ready to start work.
+- [Quickstart](https://docs.cofounder.co/get-started/quickstart): Use department onboarding to start Engineering, Marketing, Sales, or Design workflows.
+- [Linear](https://docs.cofounder.co/integrations/linear): Connect Linear so Cofounder can work from Linear issues and send progress back to Linear.
+- [MCP](https://docs.cofounder.co/integrations/mcp-toolkits): Use Composio-powered MCP integrations to connect more apps to your workspace.
+- [Integrations Overview](https://docs.cofounder.co/integrations/overview): Understand Cofounder's native integrations, managed app connections, and MCP server support.
+- [Payments And Stripe](https://docs.cofounder.co/integrations/payments-and-stripe): Connect Stripe, sync it into the managed app, and use the Engineer Agent to add billing to your app.
+- [GitHub](https://docs.cofounder.co/managed-services/github): Understand how managed GitHub repositories are created during onboarding.
+- [Migrations](https://docs.cofounder.co/managed-services/migrations): Understand how database migrations work in the managed app repo.
+- [Managed Services](https://docs.cofounder.co/managed-services/overview): Understand how managed GitHub, Vercel, and Supabase are set up during onboarding.
+- [Postmark](https://docs.cofounder.co/managed-services/postmark): Understand how Postmark handles transactional email in Cofounder.
+- [Supabase](https://docs.cofounder.co/managed-services/supabase): Understand how the managed Supabase project is created and what Cofounder configures automatically.
+- [Vercel](https://docs.cofounder.co/managed-services/vercel): Understand how managed Vercel projects are created during onboarding.
+- [Environments](https://docs.cofounder.co/publishing/environments): Understand how staging and production work for publishing.
+- [Publishing](https://docs.cofounder.co/publishing/overview): Understand how staging and production publishing work in Cofounder.
+- [Requesting a deploy](https://docs.cofounder.co/publishing/request-deploy): How agents hand finished work to staging by requesting a deploy.
+- [AI Settings](https://docs.cofounder.co/settings/ai-settings): Set global AI behavior for your workspace.
+- [Company Context](https://docs.cofounder.co/settings/company-context): Import company context from other AI tools into Company Memory.
+- [Domains](https://docs.cofounder.co/settings/domains): Buy domains from Cofounder, manage DNS and nameservers, and assign domains to your app and email setup.
+- [Environment Files & Secrets](https://docs.cofounder.co/settings/env-files-and-secrets): Upload env files, download managed staging env files, and add project secrets.
+- [Inbox](https://docs.cofounder.co/settings/inbox): Set up Agentmail inbox domains, provision inboxes for agents, and let agents work over email.
+- [Canvas](https://docs.cofounder.co/workspace/canvas): Use the canvas as the live workspace for tasks, agents, reviews, and related work.
+- [Company](https://docs.cofounder.co/workspace/company): Use the Company view to understand your workspace stack, agents, and setup status.
+- [Departments](https://docs.cofounder.co/workspace/departments): Understand the department workspaces in Cofounder and what each one is for.
+- [Library](https://docs.cofounder.co/workspace/library): Use the Library tab to upload, browse, and share files across all agents in the workspace.
+- [Marketing Department](https://docs.cofounder.co/workspace/marketing-department): Set up the Marketing Department, choose channels and Missions, review the operating plan, and manage ongoing marketing work.
+- [Roadmap](https://docs.cofounder.co/workspace/roadmap): Use the Roadmap as a guide for moving through Cofounder and building out your business.
+- [Tasks](https://docs.cofounder.co/workspace/tasks): Track running work, review completed work, and open task details from one place.
+
+## Links
+
+- [Support](mailto:support@generalintelligencecompany.com)

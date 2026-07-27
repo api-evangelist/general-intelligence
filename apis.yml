@@ -1,8 +1,18 @@
 aid: general-intelligence
 name: General Intelligence
-description: General Intelligence is a company surfaced as a portfolio company of union-square-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  The General Intelligence Company of New York builds Cofounder, an AI agent
+  orchestration platform that lets a founder run an entire business through a
+  coordinating network of specialized agents. Cofounder breaks a company into
+  repeatable Flows and deploys agents across engineering, design, marketing,
+  sales, finance, and support - handling product code, brand assets, outbound
+  campaigns, incorporation, and customer service with human-approval checkpoints
+  before significant actions execute. It provisions managed GitHub, Vercel, and
+  Supabase, connects Stripe, Linear, Postmark, and Composio-powered MCP toolkits,
+  and coordinates departments over shared company context. The company raised an
+  $8.7M seed led by Union Square Ventures. Cofounder is a product workspace, not
+  a public developer API - it consumes external APIs and MCP servers rather than
+  publishing its own REST surface.
 url: https://raw.githubusercontent.com/api-evangelist/general-intelligence/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +20,30 @@ x-backed-by:
 - union-square-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cofounder.co/og/og-home.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Artificial Intelligence
+- AI Agents
+- Agent Orchestration
+- Business Automation
+- No-Code
+- Startup
+- New York
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +53,30 @@ maintainers:
 common:
 - type: Website
   url: https://cofounder.co
+- type: Documentation
+  url: https://docs.cofounder.co/
+- type: GettingStarted
+  url: https://docs.cofounder.co/get-started/quickstart
+- type: Blog
+  url: https://generalintelligencecompany.com/writing
+- type: GitHubOrganization
+  url: https://github.com/general-intelligence-company
+- type: Pricing
+  url: https://cofounder.co/pricing
+- type: SignUp
+  url: https://app.cofounder.co
+- type: TermsOfService
+  url: https://cofounder.co/terms
+- type: PrivacyPolicy
+  url: https://cofounder.co/privacy-policy
+- type: Support
+  url: mailto:support@generalintelligencecompany.com
+- type: LLMsTxt
+  url: llms/general-intelligence-llms.txt
+- type: DomainSecurity
+  url: security/general-intelligence-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
