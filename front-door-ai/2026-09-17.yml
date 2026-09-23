@@ -1,0 +1,29 @@
+# Front Door AI Index — general-intelligence — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: general-intelligence
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: cofounder.co
+  final_host: cofounder.co
+  ownership: own
+  owner: general-intelligence
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 6
+  host_score: 6
+  density: 8.0
+  words: 750
+  tiers:
+    agentic: 2
+    core: 4
+    model: 0
+  ambiguous: 16
+  top_terms:
+    agent: 12
+    AI: 4
+    intelligence: 4
+    MCP: 1
+    agentic: 1
