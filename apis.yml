@@ -53,7 +53,6 @@ tags:
 - Agent Orchestration
 - Business Automation
 - No-Code
-- Startups
 - New York
 tags_raw:
 - Company
@@ -62,7 +61,6 @@ tags_raw:
 - Agent Orchestration
 - Business Automation
 - No-Code
-- Startup
 - New York
 apis: []
 maintainers:
@@ -100,3 +98,7 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-tags-removed:
+- Startups
+x-company-stage: startup
+x-company-stage-evidence: "own tags: Startup"
