@@ -1,0 +1,41 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://cofounder.co/pricing
+sources:
+- https://cofounder.co/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Pricing page for Cofounder agent platform; free trial, $120/mo Pro, $100/seat Team (waitlist). Comparison
+  table lists directional cost estimates of replaced services, not prices charged.
+plan_count: 3
+currency: USD
+plans:
+- name: Free Trial
+  price_text: Free
+  period: none
+  included_quota: 7 day free trial; Design system builder, Landing page hosting, Strategy and analysis
+- name: Cofounder Pro
+  price_text: Starting at $ 120 / month
+  price: 120
+  currency: USD
+  period: month
+  included_quota: SEO analysis, ICP analysis, Multiple agents, Outbound and email inbox, Social post publishing,
+    LLC Incorporation add-on
+- name: Team Plan
+  price_text: $ 100 / seat
+  price: 100
+  currency: USD
+  period: month
+  unit: seat
+  included_quota: Coming soon; SEO analysis, ICP analysis, Multiple agents, Outbound and email inbox,
+    Social post publishing, LLC Incorporation add-on
