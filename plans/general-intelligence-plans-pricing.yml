@@ -39,3 +39,34 @@ plans:
   unit: seat
   included_quota: Coming soon; SEO analysis, ICP analysis, Multiple agents, Outbound and email inbox,
     Social post publishing, LLC Incorporation add-on
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - seat
+  - subscription
+  units:
+  - seat
+  plans:
+  - name: Free Trial
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: Cofounder Pro
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: Team Plan
+    access: other
+    model: seat
+    model_how: derived
+    units:
+    - seat
+    periods:
+    - month
